@@ -1,6 +1,7 @@
 # PythonTask
 for assessment
 
+Google colab: https://colab.research.google.com/drive/1mnerdK2RInD11z7-NFEt-wopoGZ_pTGr?usp=sharing
 # Question:
 
 Here is a catalog with 3 products.
